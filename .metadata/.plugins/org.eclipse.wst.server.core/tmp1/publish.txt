@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sun Feb 09 15:46:38 IST 2020
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\smuaz\\.m2\\repository\\org\\springframework\\spring-web\\5.2.3.RELEASE\\spring-web-5.2.3.RELEASE.jar=WEB-INF/lib/spring-web-5.2.3.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\smuaz\\.m2\\repository\\org\\apache\\tomcat\\embed\\tomcat-embed-websocket\\9.0.30\\tomcat-embed-websocket-9.0.30.jar=WEB-INF/lib/tomcat-embed-websocket-9.0.30.jar

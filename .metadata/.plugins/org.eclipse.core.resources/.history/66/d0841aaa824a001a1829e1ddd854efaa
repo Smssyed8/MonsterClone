@@ -1,0 +1,5 @@
+package com.naukriMonsterRep.login.dao;
+
+public class Initializer {
+
+}

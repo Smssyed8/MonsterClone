@@ -1,0 +1,5 @@
+package com.naukriMonsterRep.login.model;
+
+public class User {
+
+}
